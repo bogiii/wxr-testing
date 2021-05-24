@@ -9,14 +9,14 @@
         <title>Home | Rockfield</title>
         <link>https://rockfielddemo.wixsite.com/my-site-11</link>
         <description></description>
-        <pubDate>Mon, 24 May 2021 14:51:44 +0200</pubDate>
+        <pubDate>Mon, 24 May 2021 14:55:14 +0200</pubDate>
         <language>en</language>
         <wp:wxr_version>1.2</wp:wxr_version>
         <wp:base_site_url>https://rockfielddemo.wixsite.com/my-site-11</wp:base_site_url>
         <wp:base_blog_url>https://rockfielddemo.wixsite.com/my-site-11</wp:base_blog_url>
         <generator>https://siteparser.wordpress.com/?engine=wix</generator>
         <wp:author>
-            <wp:author_id>702</wp:author_id>
+            <wp:author_id>808</wp:author_id>
             <wp:author_login>
                 <![CDATA[joan-smith]]>
             </wp:author_login>
@@ -28,7 +28,7 @@
             <wp:author_last_name/>
         </wp:author>
         <wp:author>
-            <wp:author_id>912</wp:author_id>
+            <wp:author_id>1048</wp:author_id>
             <wp:author_login>
                 <![CDATA[admin]]>
             </wp:author_login>
@@ -46,7 +46,7 @@
             </wp:author_last_name>
         </wp:author>
         <wp:category>
-            <wp:term_id>902</wp:term_id>
+            <wp:term_id>958</wp:term_id>
             <wp:category_nicename>
                 <![CDATA[uncategorized]]>
             </wp:category_nicename>
@@ -56,30 +56,84 @@
             </wp:cat_name>
         </wp:category>
         <wp:term>
-            <wp:term_id>742</wp:term_id>
-            <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+            <wp:term_id>988</wp:term_id>
+            <wp:term_taxonomy>0</wp:term_taxonomy>
             <wp:term_slug>
-                <![CDATA[custom-main-menu-2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                <![CDATA[2]]>
             </wp:term_slug>
             <wp:term_name>
-                <![CDATA[Custom Main Menu]]>
+                <![CDATA[2]]>
             </wp:term_name>
-            <wp:termmeta>
-                <wp:meta_key>
-                    <![CDATA[menu_role]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[main]]>
-                </wp:meta_value>
-            </wp:termmeta>
-            <wp:termmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:termmeta>
+        </wp:term>
+        <wp:term>
+            <wp:term_id>1038</wp:term_id>
+            <wp:term_taxonomy>0</wp:term_taxonomy>
+            <wp:term_slug>
+                <![CDATA[5]]>
+            </wp:term_slug>
+            <wp:term_name>
+                <![CDATA[5]]>
+            </wp:term_name>
+        </wp:term>
+        <wp:term>
+            <wp:term_id>968</wp:term_id>
+            <wp:term_taxonomy>0</wp:term_taxonomy>
+            <wp:term_slug>
+                <![CDATA[wp_template_part_area]]>
+            </wp:term_slug>
+            <wp:term_name>
+                <![CDATA[wp_template_part_area]]>
+            </wp:term_name>
+        </wp:term>
+        <wp:term>
+            <wp:term_id>978</wp:term_id>
+            <wp:term_taxonomy>0</wp:term_taxonomy>
+            <wp:term_slug>
+                <![CDATA[header]]>
+            </wp:term_slug>
+            <wp:term_name>
+                <![CDATA[header]]>
+            </wp:term_name>
+        </wp:term>
+        <wp:term>
+            <wp:term_id>1028</wp:term_id>
+            <wp:term_taxonomy>0</wp:term_taxonomy>
+            <wp:term_slug>
+                <![CDATA[footer]]>
+            </wp:term_slug>
+            <wp:term_name>
+                <![CDATA[footer]]>
+            </wp:term_name>
+        </wp:term>
+        <wp:term>
+            <wp:term_id>1018</wp:term_id>
+            <wp:term_taxonomy>1</wp:term_taxonomy>
+            <wp:term_slug>
+                <![CDATA[3]]>
+            </wp:term_slug>
+            <wp:term_name>
+                <![CDATA[3]]>
+            </wp:term_name>
+        </wp:term>
+        <wp:term>
+            <wp:term_id>998</wp:term_id>
+            <wp:term_taxonomy>1</wp:term_taxonomy>
+            <wp:term_slug>
+                <![CDATA[wp_theme]]>
+            </wp:term_slug>
+            <wp:term_name>
+                <![CDATA[wp_theme]]>
+            </wp:term_name>
+        </wp:term>
+        <wp:term>
+            <wp:term_id>1008</wp:term_id>
+            <wp:term_taxonomy>1</wp:term_taxonomy>
+            <wp:term_slug>
+                <![CDATA[tt1-blocks]]>
+            </wp:term_slug>
+            <wp:term_name>
+                <![CDATA[tt1-blocks]]>
+            </wp:term_name>
         </wp:term>
         <wp:option>
             <wp:option_key>
@@ -94,7 +148,7 @@
                 <![CDATA[page_on_front]]>
             </wp:option_key>
             <wp:option_value>
-                <![CDATA[652]]>
+                <![CDATA[728]]>
             </wp:option_value>
         </wp:option>
         <wp:option>
@@ -102,7 +156,7 @@
                 <![CDATA[page_for_posts]]>
             </wp:option_key>
             <wp:option_value>
-                <![CDATA[602]]>
+                <![CDATA[708]]>
             </wp:option_value>
         </wp:option>
         <item>
@@ -122,7 +176,7 @@
                 <![CDATA[<p style="text-align: left;">Food presentation is the art of modifying, processing, arranging, or decorating food to enhance its aesthetic appeal.</p><p style="text-align: left;">The visual presentation of foods is often considered by chefs at many different stages of food preparation, from the manner of tying or sewing meats, to the type of cut used in chopping and slicing meats or vegetables, to the style of mold used in a poured dish. The food itself may be decorated as in elaborately iced cakes, topped with ornamental sometimes sculptural consumables, drizzled with sauces, sprinkled with seeds, powders, or other toppings, or it may be accompanied by edible or inedible garnishes.</p><p style="text-align: left;">The arrangement and overall styling of food upon bringing it to the plate is termed plating. Some common styles of plating include a ‘classic’ arrangement of the main item in the front of the plate with vegetables or starches in the back, a ‘stacked’ arrangement of the various items, or the main item leaning or ‘shingled’ upon a vegetable bed or side item. Item location on the plate is often referenced as for the face of a clock, with six o’clock the position closest to the diner.</p><p style="text-align: left;">A basic rule of thumb upon plating, and even in some cases prepping, is to make sure you have the 5 components to a dish; protein, traditionally at a 6 o’clock position, vegetable, at a 2 o’clock position, starch at an 11 o’clock position, sauce and garnish.</p><p style="text-align: left;"><em>From <u><a href="https://en.wikipedia.org/wiki/Food_presentation">Wikipedia</a></u>.</em></p>]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>712</wp:post_id>
+            <wp:post_id>818</wp:post_id>
             <wp:post_date>2021-03-30 11:06:40</wp:post_date>
             <wp:post_date_gmt>2021-03-30 09:06:40</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
@@ -150,7 +204,7 @@
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -171,7 +225,7 @@
                 <![CDATA[<p>Rockfield is available for Christmas parties of all sizes, so it’s high time to start planning your Christmas lunch or dinner. Click here to make a reservation today!</p>]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>722</wp:post_id>
+            <wp:post_id>828</wp:post_id>
             <wp:post_date>2021-03-30 11:02:10</wp:post_date>
             <wp:post_date_gmt>2021-03-30 09:02:10</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
@@ -199,7 +253,7 @@
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -220,7 +274,7 @@
                 <![CDATA[<p>This winter season come and join us for hearty soups and stews, cheesy gratins and casseroles. These delicious items can be found on our seasonal menu, with specials changing daily.</p><p></p><img src="https://static.wixstatic.com/media/34fbbd_f1cb8ce488494db9a05e29ab73b9ab70~mv2.jpg"><p></p>]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>732</wp:post_id>
+            <wp:post_id>838</wp:post_id>
             <wp:post_date>2021-03-30 10:58:13</wp:post_date>
             <wp:post_date_gmt>2021-03-30 08:58:13</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
@@ -248,7 +302,7 @@
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -256,48 +310,26 @@
             <title>
                 <![CDATA[Menu]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/menu]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/menu]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
             <content:encoded>
-                <![CDATA[<h2 style="font-size: 50px;text-align: center;"><span style="font-size: 50px;"><strong>Menu</strong></span></h2><p style="font-size: 23px;"><span style="font-size: 23px;">The menu is a mix of French regional cuisines, and the menu changes with the seasons.<br>
-Be sure to ask about the daily specials!</span></p><hr size="5" width="91"><h4 style="font-size: 37px;text-align: center;"><span style="font-size: 37px;"><strong>Starter</strong></span></h4><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Pork Rillettes</strong></span></p><p style="font-size: 18px;"><span style="font-size: 18px;">With quick pickle of dried apricots and pistachio crumble<br>
-$14.00</span></p><p style="font-size: 18px;"><span style="font-size: 18px;"></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Mini Tartes Flambées</strong></span></p><p style="font-size: 20px;"><span style="font-size: 18px;">Served warm with honey and croûtons<br>
-$12.50$15.00</span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Salmon Canapés</strong></span></p><p style="font-size: 20px;"><span style="font-size: 18px;">Smoked salmon topped with crème fraîche, dill and capers<br>
-$15.00</span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Mini Tartes Flambées</strong></span></p><p style="font-size: 20px;"><span style="font-size: 18px;">Smoked salmon topped with crème fraîche, dill and capers<br>
-$15.00</span></p><hr size="5" width="91"><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Provençal Vegetable Tart</strong></span></p><p style="font-size: 18px;"><span style="font-size: 18px;">With seasonal vegetables<br>
-$12.50</span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Mini Tartes Flambées</strong></span></p><p style="font-size: 20px;"><span style="font-size: 18px;">Braised wild mushrooms served with seaweed and liquid nitrogen<br>
-$14.50</span></p><h4 style="font-size: 37px;text-align: center;"><span style="font-size: 37px;"><strong>Mains</strong></span></h4><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Coq au Vin d’Alsace</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Bouillabaisse</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Sole Meunière</strong></span></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">Chicken cooked in Riesling with onions, mushrooms and herbs<br>
-$25.50</span></strong></p><p style="font-size: 18px;"><strong><span style="font-size: 18px;">Traditional Provençal fish stew, with shrimp, mussels, clams and monkfish<br>
-$26.00</span></strong></p><p style="font-size: 18px;"><strong><span style="font-size: 18px;">Pan-fried sole in butter and served with brown butter sauce, parsley and lemon<br>
-$28.00</span></strong></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Côte de Boeuf</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Duck à l’Orange</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Pea and Asparagus Risotto</strong></span></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">60 days aged rib steak, pepper sauce, fondant potatoes<br>
-$31.00</span></strong></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">Roasted duck breast with crispy skin and velvety citrus sauce<br>
-$26.50</span></strong></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">With goat’s cheese, rocket and baby shoot salad<br>
-$22.00</span></strong></p><hr size="5" width="91"><h4 style="font-size: 37px;text-align: center;"><span style="font-size: 37px;"><strong>Desserts</strong></span></h4><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Chocolate Macarons</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Crêpe Suzette</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Praline Cake</strong></span></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">A classic French delicacy, filled with rich chocolate ganache<br>
-$12.00</span></strong></p><p style="font-size: 18px;"><strong><span style="font-size: 18px;">Delicate crêpe in buttery, orange sauce; served flambé<br>
-$13.00</span></strong></p><p style="font-size: 18px;"><strong><span style="font-size: 18px;">Multi-layer praline and chocolate cake with caramel cream cheese<br>
-$12.00</span></strong></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Tarte Tatin</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Lemon Tart</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Trio of Fruit</strong></span></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">Sticky caramel sauce with apples, served with whipped cream<br>
-$12.00</span></strong></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">zesty lemon tang, creamy custard and topped with meringue<br>
-$12.00</span></strong></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">Blueberries, strawberries, raspberries, plums and passion fruit<br>
-$28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text-align: center;"><span style="font-size: 18px;"><em>Our fish is responsibly caught from sustainable sources.</em></span></p>]]>
+                <![CDATA[<h2><strong>Menu</strong></h2><p>The menu is a mix of French regional cuisines, and the menu changes with the seasons.<br>Be sure to ask about the daily specials!</p><h4><strong>Starter</strong></h4><div><div><p><strong>Pork Rillettes</strong></p><p>With quick pickle of dried apricots and pistachio crumble<br>$14.00</p><p></p><p><strong>Mini Tartes Flambées</strong></p><p>Served warm with honey and croûtons<br>$12.50$15.00</p></div><div><p><strong>Salmon Canapés</strong></p><p>Smoked salmon topped with crème fraîche, dill and capers<br>$15.00</p><p><strong>Mini Tartes Flambées</strong></p><p>Smoked salmon topped with crème fraîche, dill and capers<br>$15.00</p></div><div><p><strong>Provençal Vegetable Tart</strong></p><p>With seasonal vegetables<br>$12.50</p><p><strong>Mini Tartes Flambées</strong></p><p>Braised wild mushrooms served with seaweed and liquid nitrogen<br>$14.50</p></div></div><h4><strong>Mains</strong></h4><p><strong>Coq au Vin d’Alsace</strong></p><p><strong>Chicken cooked in Riesling with onions, mushrooms and herbs<br>$25.50</strong></p><p><strong>Bouillabaisse</strong></p><p><strong>Traditional Provençal fish stew, with shrimp, mussels, clams and monkfish<br>$26.00</strong></p><p><strong>Côte de Boeuf</strong></p><p><strong>60 days aged rib steak, pepper sauce, fondant potatoes<br>$31.00</strong></p><p><strong>Duck à l’Orange</strong></p><p><strong>Roasted duck breast with crispy skin and velvety citrus sauce<br>$26.50</strong></p><p><strong>Sole Meunière</strong></p><p><strong>Pan-fried sole in butter and served with brown butter sauce, parsley and lemon<br>$28.00</strong></p><p><strong>Pea and Asparagus Risotto</strong></p><p><strong>With goat’s cheese, rocket and baby shoot salad<br>$22.00</strong></p><h4><strong>Desserts</strong></h4><p><strong>Chocolate Macarons</strong></p><p><strong>A classic French delicacy, filled with rich chocolate ganache<br>$12.00</strong></p><p><strong>Crêpe Suzette</strong></p><p><strong>Delicate crêpe in buttery, orange sauce; served flambé<br>$13.00</strong></p><p><strong>Tarte Tatin</strong></p><p><strong>Sticky caramel sauce with apples, served with whipped cream<br>$12.00</strong></p><p><strong>Lemon Tart</strong></p><p><strong>zesty lemon tang, creamy custard and topped with meringue<br>$12.00</strong></p><p><strong>Praline Cake</strong></p><p><strong>Multi-layer praline and chocolate cake with caramel cream cheese<br>$12.00</strong></p><p><strong>Trio of Fruit</strong></p><p><strong>Blueberries, strawberries, raspberries, plums and passion fruit<br>$28.00</strong></p><p><em>Our fish is responsibly caught from sustainable sources.</em></p>
+]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>572</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>678</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -305,7 +337,7 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -313,27 +345,23 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
             <title>
                 <![CDATA[Post]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/post]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/post]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
             <content:encoded/>
             <excerpt:encoded/>
-            <wp:post_id>582</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>688</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -341,7 +369,7 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -349,31 +377,26 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
             <title>
                 <![CDATA[Christmas Party at Rockfield’s]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/christmaspartyatrockfields]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/christmaspartyatrockfields]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
             <content:encoded>
-                <![CDATA[<h1 style="text-align: center;"><strong>Christmas Party at Rockfield’s</strong></h1><p style="font-size: 25px;"><span style="font-size: 25px;">Rockfield is available for Christmas parties of all sizes, so it’s high time to start planning your Christmas lunch or dinner.</span></p><p style="font-size: 25px;"><span style="font-size: 25px;">Click here to make a reservation today!</span></p><div class="componentContainer"><h2 style="font-size: 20px;"><strong><span style="font-size: 20px;">Published by Joan Smith</span></strong></h2><p style="font-size: 20px;"><span style="font-size: 20px;">My name is Joan Smith. I love discovering new literature. <a href="#">View more posts</a></span></p></div><hr size="5" width="432"><p style="font-size: 22px;"><span style="font-size: 22px;">Previous Post</span></p><h3 style="font-size: 21px;"><a href="?p=632"><span style="font-size: 21px;">Winter Menu</span></a></h3>
-
+                <![CDATA[<h1><strong>Christmas Party at Rockfield’s</strong></h1><p>Rockfield is available for Christmas parties of all sizes, so it’s high time to start planning your Christmas lunch or dinner.</p><p>Click here to make a reservation today!</p><h2><strong>Published by Joan Smith</strong></h2><p>My name is Joan Smith. I love discovering new literature.&nbsp;<a>View more posts</a></p><p>Previous Post</p><h3><a>Winter Menu</a></h3>
 ]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>592</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>698</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -381,7 +404,7 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -389,27 +412,26 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
             <title>
                 <![CDATA[What's On]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/blog]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/blog]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
-            <content:encoded/>
+            <content:encoded>
+                <![CDATA[<h1><strong>What’s On</strong></h1><div class="has-background-dim"><img data-object-fit="cover" src="media-url/34fbbd_9c6a60230f674966b70d0c30d3e2bc4d~mv2.jpg" alt="" class="wp-block-cover__image-background wp-image-6"><div class="wp-block-cover__inner-container"><h1><strong>Latest Updates From Us</strong></h1></div></div>
+]]>
+            </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>602</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>708</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -417,7 +439,7 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -425,30 +447,28 @@ $28.00</span></strong></p><hr size="5" width="91"><p style="font-size: 18px;text
             <title>
                 <![CDATA[Reservations]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/reservations]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/reservations]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
             <content:encoded>
-                <![CDATA[<h1 style="text-align: center;"><strong>Reservations</strong></h1><p style="font-size: 22px;"><span style="font-size: 22px;">Let’s talk      Don’t hesitate to reach out with the contact information below, or send a message using the form.</span></p><p style="font-size: 22px;"><span style="font-size: 22px;"></span></p><p style="font-size: 22px;"><span style="font-size: 22px;">To book a table, call us or use the form below.</span></p><img height="21" width="21" alt="1f44b.png" src="https://static.wixstatic.com/media/34fbbd_84985948c2f74604a4276d476ad8a3f9~mv2.png"><hr size="5" width="91"><h1 style="font-size: 48px;"><span style="font-size: 48px;"><strong>Book Online</strong></span></h1><a role="button" class="button">Submit</a><p>Thanks for submitting!</p><h4 style="font-size: 34px;"><strong><span style="font-size: 34px;">Location</span></strong></h4><p style="font-size: 22px;"><span style="font-size: 22px;">1 Example Street</span></p><p style="font-size: 22px;"><span style="font-size: 22px;">Anytown, NY 10100</span></p><p style="font-size: 22px;"><span style="font-size: 22px;"><a href="mailto:mail@example.com">mail@example.com</a></span></p><p style="font-size: 22px;"><span style="font-size: 22px;">(555) 555 1234</span></p><h4 style="font-size: 34px;"><strong><span style="font-size: 34px;">Open Hours</span></strong></h4><p style="font-size: 22px;">Mon: closed<br>
-Tue – Sun: 11:30 am – 10:00 pm</p>]]>
+                <![CDATA[<h1><strong>Reservations</strong></h1><p>Let’s talk&nbsp; &nbsp; &nbsp; Don’t hesitate to reach out with the contact information below, or send a message using the form.</p><p></p><p>To book a table, call us or use the form below.</p><figure class="is-resized"><img height="36" width="36" alt="1f44b.png" src="media-url/34fbbd_84985948c2f74604a4276d476ad8a3f9~mv2.png"></figure><h4><strong>Location</strong></h4><p></p><p>1 Example Street</p><p>Anytown, NY 10100</p><p><a>mail@example.com</a></p><p>(555) 555 1234</p><h4><strong>Open Hours</strong></h4><p>Mon: closed<br>Tue – Sun: 11:30 am – 10:00 pm</p>
+
+
+]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>612</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>718</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -456,7 +476,7 @@ Tue – Sun: 11:30 am – 10:00 pm</p>]]>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -464,37 +484,26 @@ Tue – Sun: 11:30 am – 10:00 pm</p>]]>
             <title>
                 <![CDATA[Home]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
             <content:encoded>
-                <![CDATA[<hr size="5" width="91"><h2 style="font-size: 50px;text-align: center;"><span style="font-size: 50px;"><strong><strong>Enjoy Our Food Experience</strong></strong></span></h2><hr size="5" width="91"><h4 style="font-size: 37px;text-align: center;"><span style="font-size: 37px;"><strong>Welcome to Rockfield</strong></span></h4><p style="font-size: 22px;"><span style="font-size: 22px;">Chef Patron Joan Smith and Executive Chef François Lemoine have teamed up to open one of the most exciting restaurants in Anytown.</span></p><p style="font-size: 22px;"><span style="font-size: 22px;"></span></p><p style="font-size: 22px;"><span style="font-size: 22px;">Our specialty is delicious cuisine created with the ingenuity and passion inspired by the fantastic flavors of France itself. We take great pride in improving upon your favorite French dishes in new and creative ways.</span></p><h5></h5><hr size="5" width="91"><h2 style="font-size: 50px;text-align: center;"><span style="font-size: 50px;"><strong><strong>Discover Our Menu</strong></strong></span></h2><hr size="5" width="91"><p style="font-size: 22px;"><span style="font-size: 22px;">The menu is a mix of French regional cuisines, and the menu changes with the seasons.<br>
-Be sure to ask about the daily specials!</span></p><hr size="5" width="91"><h4 style="font-size: 37px;text-align: center;"><span style="font-size: 37px;"><strong>Sample Menu</strong></span></h4><p style="font-size: 31px;"><strong><span style="font-size: 31px;">Main</span></strong></p><p style="font-size: 31px;"><strong><span style="font-size: 31px;">Dessert</span></strong></p><p style="font-size: 31px;"><strong><span style="font-size: 31px;">Starter</span></strong></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Fricassée of Wild Mushrooms</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Coq au Vin d’Alsace</strong></span></p><p style="font-size: 21px;"><span style="font-size: 21px;"><strong>Pumpkin Soufflé</strong></span></p><p style="font-size: 20px;"><strong><span style="font-size: 18px;">Braised wild mushrooms served with seaweed and liquid nitrogen</span><br><span style="font-size: 20px;">$14.50</span></strong></p><p style="font-size: 18px;"><strong><span style="font-size: 18px;">Chicken cooked in Riesling with onions, mushrooms and herbs<br>
-$25.50</span></strong></p><h6 style="font-size: 18px;"><strong><span style="font-size: 18px;"></span></strong></h6><p style="font-size: 18px;"><strong><span style="font-size: 18px;"></span></strong></p><p style="font-size: 18px;"><strong><span style="font-size: 18px;">With bourbon, cinnamon and molasses sauce<br>
-$9.00</span></strong></p><h6 style="font-size: 18px;"><strong><span style="font-size: 18px;"></span></strong></h6><p style="font-size: 18px;"><strong><span style="font-size: 18px;"></span></strong></p><a role="button" class="button" href="?p=572">View Menu</a><hr size="5" width="91"><h2 style="font-size: 50px;text-align: center;"><span style="font-size: 50px;"><strong><strong>Book Your Table</strong></strong></span></h2><hr size="5" width="91"><h5 style="font-size: 21px;"><span style="font-size: 21px;">To book a table, call us (123) 444–5678 or use the form below.</span></h5><a role="button" class="button">Submit</a><p>Thanks for submitting!</p><h2 style="font-size: 31px;text-align: center;"><span style="font-size: 31px;"><strong><strong>Rockfield</strong></strong></span></h2><p style="font-size: 21px;text-align: center;"><span style="font-size: 21px;">Visitors will want to know who is on the other side of the page. Use this space to write about your business.</span></p><h2 style="font-size: 31px;text-align: center;"><span style="font-size: 31px;"><strong><strong>Open Hours</strong></strong></span></h2><h2 style="font-size: 31px;text-align: center;"><span style="font-size: 31px;"><strong><strong>Location</strong></strong></span></h2><h2 style="font-size: 31px;text-align: center;"><span style="font-size: 31px;"><strong><strong>Reservation</strong></strong></span></h2><p style="font-size: 17px;"><span style="font-size: 17px;"><strong>Mon:</strong> closed<br>
-Tue – Sun: 11:30 am – 10:00 pm</span></p><p style="font-size: 17px;"><span style="font-size: 17px;">Example Street,<br>
-Anytown, NY 10100</span></p><p style="font-size: 17px;"><span style="font-size: 17px;">(555) 555 1234<br>
-mail@example.com</span></p>
-
+                <![CDATA[<div class="has-background-dim"><img data-object-fit="cover" src="media-url/34fbbd_b9221ee9414a40b7bd5ecf53c8e5b429~mv2.jpg" alt="" class="wp-block-cover__image-background wp-image-8"><div class="wp-block-cover__inner-container"><h2><strong>Enjoy Our Food Experience</strong></h2></div></div><h4><strong>Welcome to Rockfield</strong></h4><h5></h5><p>Chef Patron Joan Smith and Executive Chef François Lemoine have teamed up to open one of the most exciting restaurants in Anytown.</p><p></p><p>Our specialty is delicious cuisine created with the ingenuity and passion inspired by the fantastic flavors of France itself. We take great pride in improving upon your favorite French dishes in new and creative ways.</p><div class="has-background-dim"><img data-object-fit="cover" src="media-url/34fbbd_47d6c5dca3f4404aa48607a0ca6f7f14~mv2.jpg" alt="" class="wp-block-cover__image-background wp-image-9"><div class="wp-block-cover__inner-container"><h2><strong>Discover Our Menu</strong></h2></div></div><p>The menu is a mix of French regional cuisines, and the menu changes with the seasons.<br>Be sure to ask about the daily specials!</p><h4><strong>Sample Menu</strong></h4><p><strong>Starter</strong></p><p><strong>Fricassée of Wild Mushrooms</strong></p><p><strong>Braised wild mushrooms served with seaweed and liquid nitrogen<br>$14.50</strong></p><p><strong>Main</strong></p><p><strong>Coq au Vin d’Alsace</strong></p><p><strong>Chicken cooked in Riesling with onions, mushrooms and herbs<br>$25.50</strong></p><h6><strong></strong></h6><p><strong></strong></p><p><strong>Dessert</strong></p><p><strong>Pumpkin Soufflé</strong></p><p><strong>With bourbon, cinnamon and molasses sauce<br>$9.00</strong></p><h6><strong></strong></h6><p><strong></strong></p><div><div><a href="/menu" class="wp-block-button__link">View Menu</a></div></div><div class="has-background-dim"><img data-object-fit="cover" src="media-url/34fbbd_61dd8069e8c54e209b72b7ce7fdee883~mv2.jpg" alt="" class="wp-block-cover__image-background wp-image-11"><div class="wp-block-cover__inner-container"><h2><strong>Book Your Table</strong></h2></div></div><div class="has-background-dim"><img data-object-fit="cover" src="media-url/34fbbd_8a1f269fd4a843d783d8755c6abd95ed~mv2.jpg" alt="" class="wp-block-cover__image-background wp-image-12"><div class="wp-block-cover__inner-container"><h2><strong>Rockfield</strong></h2><p>Visitors will want to know who is on the other side of the page. Use this space to write about your business.</p><h2><strong>Open Hours</strong></h2><p><strong>Mon:</strong>&nbsp;closed<br>Tue – Sun: 11:30 am – 10:00 pm</p><h2><strong>Location</strong></h2><p>Example Street,<br>Anytown, NY 10100</p><h2><strong>Reservation</strong></h2><p>(555) 555 1234<br>mail@example.com</p></div></div>
 ]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>652</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>728</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -502,7 +511,7 @@ mail@example.com</span></p>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -510,31 +519,26 @@ mail@example.com</span></p>
             <title>
                 <![CDATA[Winter Menu]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/winter-menu]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/winter-menu]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
             <content:encoded>
-                <![CDATA[<h1 style="text-align: center;"><strong>Winter Menu</strong></h1><p style="font-size: 22px;"><span style="font-size: 22px;">This winter season come and join us for hearty soups and stews, cheesy gratins and casseroles. These delicious items can be found on our seasonal menu, with specials changing daily.</span></p><img height="653" width="980" alt="appetizer-blurred-background-cheese-2531" src="https://static.wixstatic.com/media/34fbbd_f1cb8ce488494db9a05e29ab73b9ab70~mv2.jpg"><div class="componentContainer"><h2 style="font-size: 20px;"><strong><span style="font-size: 20px;">Published by Joan Smith</span></strong></h2><p style="font-size: 20px;"><span style="font-size: 20px;">My name is Joan Smith. I love discovering new literature. <a href="#">View more posts</a></span></p></div><hr size="5" width="432"><p style="font-size: 22px;"><span style="font-size: 22px;">Previous Post</span></p><p style="font-size: 22px;"><span style="font-size: 22px;">Next Post</span></p><h3 style="font-size: 21px;"><a href="?p=592"><span style="font-size: 21px;">Christmas Party at Rockfield’s</span></a></h3><h3 style="font-size: 21px;"><a href="?p=642"><span style="font-size: 21px;">Tricks to Plating Like a Pro</span></a></h3>
-
+                <![CDATA[<h1><strong>Winter Menu</strong></h1><p>This winter season come and join us for hearty soups and stews, cheesy gratins and casseroles. These delicious items can be found on our seasonal menu, with specials changing daily.</p><figure class="is-resized"><img height="682" width="1024" alt="appetizer-blurred-background-cheese-2531" src="media-url/34fbbd_f1cb8ce488494db9a05e29ab73b9ab70~mv2.jpg"></figure><h2><strong>Published by Joan Smith</strong></h2><p>My name is Joan Smith. I love discovering new literature.&nbsp;<a>View more posts</a></p><p>Previous Post</p><h3><a>Christmas Party at Rockfield’s</a></h3><p>Next Post</p><h3><a>Tricks to Plating Like a Pro</a></h3>
 ]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>632</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>738</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -542,7 +546,7 @@ mail@example.com</span></p>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -550,31 +554,26 @@ mail@example.com</span></p>
             <title>
                 <![CDATA[Tricks to Plating Like a Pro]]>
             </title>
-            <link>
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/trickstoplatinglikeapro]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
+            <link/>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://rockfielddemo.wixsite.com/my-site-11/trickstoplatinglikeapro]]>
-            </guid>
+            <guid isPermaLink="false"/>
             <description></description>
             <content:encoded>
-                <![CDATA[<h1 style="text-align: center;"><strong>Tricks to Plating Like a Pro</strong></h1><p style="font-size: 22px;"><span style="font-size: 22px;">Food presentation is the art of modifying, processing, arranging, or decorating food to enhance its aesthetic appeal.</span></p><p style="font-size: 22px;"><span style="font-size: 22px;"></span></p><p style="font-size: 22px;"><span style="font-size: 22px;">The visual presentation of foods is often considered by chefs at many different stages of food preparation, from the manner of tying or sewing meats, to the type of cut used in chopping and slicing meats or vegetables, to the style of mold used in a poured dish. The food itself may be decorated as in elaborately iced cakes, topped with ornamental sometimes sculptural consumables, drizzled with sauces, sprinkled with seeds, powders, or other toppings, or it may be accompanied by edible or inedible garnishes.</span></p><p style="font-size: 22px;"><span style="font-size: 22px;"></span></p><p style="font-size: 22px;"><span style="font-size: 22px;">The arrangement and overall styling of food upon bringing it to the plate is termed plating. Some common styles of plating include a ‘classic’ arrangement of the main item in the front of the plate with vegetables or starches in the back, a ‘stacked’ arrangement of the various items, or the main item leaning or ‘shingled’ upon a vegetable bed or side item. Item location on the plate is often referenced as for the face of a clock, with six o’clock the position closest to the diner.</span></p><p style="font-size: 22px;"><span style="font-size: 22px;"></span></p><p style="font-size: 22px;"><span style="font-size: 22px;">A basic rule of thumb upon plating, and even in some cases prepping, is to make sure you have the 5 components to a dish; protein, traditionally at a 6 o’clock position, vegetable, at a 2 o’clock position, starch at an 11 o’clock position, sauce and garnish.</span></p><p style="font-size: 22px;"><span style="font-size: 22px;"></span></p><p style="font-size: 22px;"><span style="font-size: 22px;">From <a rel="noopener" target="_blank" href="https://en.wikipedia.org/wiki/Food_presentation">Wikipedia</a>.</span></p><div class="componentContainer"><h2 style="font-size: 20px;"><strong><span style="font-size: 20px;">Published by Joan Smith</span></strong></h2><p style="font-size: 20px;"><span style="font-size: 20px;">My name is Joan Smith. I love discovering new literature. <a href="#">View more posts</a></span></p></div><hr size="5" width="432"><p style="font-size: 22px;"><span style="font-size: 22px;">Previous Post</span></p><h3 style="font-size: 21px;"><a href="?p=632"><span style="font-size: 21px;">Winter Menu</span></a></h3>
-
+                <![CDATA[<h1><strong>Tricks to Plating Like a Pro</strong></h1><p>Food presentation is the art of modifying, processing, arranging, or decorating food to enhance its aesthetic appeal.</p><p></p><p>The visual presentation of foods is often considered by chefs at many different stages of food preparation, from the manner of tying or sewing meats, to the type of cut used in chopping and slicing meats or vegetables, to the style of mold used in a poured dish. The food itself may be decorated as in elaborately iced cakes, topped with ornamental sometimes sculptural consumables, drizzled with sauces, sprinkled with seeds, powders, or other toppings, or it may be accompanied by edible or inedible garnishes.</p><p></p><p>The arrangement and overall styling of food upon bringing it to the plate is termed plating. Some common styles of plating include a ‘classic’ arrangement of the main item in the front of the plate with vegetables or starches in the back, a ‘stacked’ arrangement of the various items, or the main item leaning or ‘shingled’ upon a vegetable bed or side item. Item location on the plate is often referenced as for the face of a clock, with six o’clock the position closest to the diner.</p><p></p><p>A basic rule of thumb upon plating, and even in some cases prepping, is to make sure you have the 5 components to a dish; protein, traditionally at a 6 o’clock position, vegetable, at a 2 o’clock position, starch at an 11 o’clock position, sauce and garnish.</p><p></p><p>From&nbsp;<a>Wikipedia</a>.</p><h2><strong>Published by Joan Smith</strong></h2><p>My name is Joan Smith. I love discovering new literature.&nbsp;<a>View more posts</a></p><p>Previous Post</p><h3><a>Winter Menu</a></h3>
 ]]>
             </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>642</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
+            <wp:post_id>748</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
+            <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
             <wp:post_name/>
-            <wp:status>publish</wp:status>
-            <wp:post_type>page</wp:post_type>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
             <wp:postmeta>
@@ -582,105 +581,7 @@ mail@example.com</span></p>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[1f44b.png]]>
-            </title>
-            <link>
-                <![CDATA[https://static.wixstatic.com/media/34fbbd_84985948c2f74604a4276d476ad8a3f9~mv2.png]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://static.wixstatic.com/media/34fbbd_84985948c2f74604a4276d476ad8a3f9~mv2.png]]>
-            </guid>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>662</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[34fbbd_84985948c2f74604a4276d476ad8a3f9~mv2.png]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>attachment</wp:post_type>
-            <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:attachment_url>
-                <![CDATA[https://static.wixstatic.com/media/34fbbd_84985948c2f74604a4276d476ad8a3f9~mv2.png]]>
-            </wp:attachment_url>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_wp_attachment_attachment_alt]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[1f44b.png]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[appetizer-blurred-background-cheese-2531]]>
-            </title>
-            <link>
-                <![CDATA[https://static.wixstatic.com/media/34fbbd_f1cb8ce488494db9a05e29ab73b9ab70~mv2.jpg]]>
-            </link>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false">
-                <![CDATA[https://static.wixstatic.com/media/34fbbd_f1cb8ce488494db9a05e29ab73b9ab70~mv2.jpg]]>
-            </guid>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>672</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status>closed</wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[34fbbd_f1cb8ce488494db9a05e29ab73b9ab70~mv2.jpg]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>attachment</wp:post_type>
-            <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:attachment_url>
-                <![CDATA[https://static.wixstatic.com/media/34fbbd_f1cb8ce488494db9a05e29ab73b9ab70~mv2.jpg]]>
-            </wp:attachment_url>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_wp_attachment_attachment_alt]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[appetizer-blurred-background-cheese-2531]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -689,455 +590,148 @@ mail@example.com</span></p>
                 <![CDATA[Home]]>
             </title>
             <link/>
-            <pubDate>Mon, 24 May 2021 14:51:44 +0200</pubDate>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
             <guid isPermaLink="false"/>
             <description></description>
-            <content:encoded/>
+            <content:encoded>
+                <![CDATA[<h2><strong>Enjoy Our Food Experience</strong></h2><h4><strong>Welcome to Rockfield</strong></h4><h5></h5><p>Chef Patron Joan Smith and Executive Chef François Lemoine have teamed up to open one of the most exciting restaurants in Anytown.</p><p></p><p>Our specialty is delicious cuisine created with the ingenuity and passion inspired by the fantastic flavors of France itself. We take great pride in improving upon your favorite French dishes in new and creative ways.</p><h2><strong>Discover Our Menu</strong></h2><p>The menu is a mix of French regional cuisines, and the menu changes with the seasons.<br>Be sure to ask about the daily specials!</p><h4><strong>Sample Menu</strong></h4><p><strong>Starter</strong></p><p><strong>Fricassée of Wild Mushrooms</strong></p><p><strong>Braised wild mushrooms served with seaweed and liquid nitrogen<br>$14.50</strong></p><p><strong>Main</strong></p><p><strong>Coq au Vin d’Alsace</strong></p><p><strong>Chicken cooked in Riesling with onions, mushrooms and herbs<br>$25.50</strong></p><h6><strong></strong></h6><p><strong></strong></p><p><strong>Dessert</strong></p><p><strong>Pumpkin Soufflé</strong></p><p><strong>With bourbon, cinnamon and molasses sauce<br>$9.00</strong></p><h6><strong></strong></h6><p><strong></strong></p><div><div><a href="/undefined" class="wp-block-button__link">View Menu</a></div></div><h2><strong>Book Your Table</strong></h2><h2><strong>Rockfield</strong></h2><p>Visitors will want to know who is on the other side of the page. Use this space to write about your business.</p><h2><strong>Open Hours</strong></h2><p><strong>Mon:</strong>&nbsp;closed<br>Tue – Sun: 11:30 am – 10:00 pm</p><h2><strong>Location</strong></h2><p>Example Street,<br>Anytown, NY 10100</p><h2><strong>Reservation</strong></h2><p>(555) 555 1234<br>mail@example.com</p>
+]]>
+            </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>752</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:44</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:44</wp:post_date_gmt>
+            <wp:post_id>758</wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[home]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>nav_menu_item</wp:post_type>
+            <wp:post_name/>
+            <wp:status></wp:status>
+            <wp:post_type></wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
-            <category domain="nav_menu" nicename="custom-main-menu-2d2e4b41-c9ed-4cc2-8f3e-95933732daac">
-                <![CDATA[Custom Main Menu]]>
-            </category>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_type]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[post_type]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_menu_item_parent]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[652]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[page]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_target]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_classes]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_url]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_xfn]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
             <wp:postmeta>
                 <wp:meta_key>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>
-                <![CDATA[Menu]]>
+                <![CDATA[header]]>
             </title>
             <link/>
-            <pubDate>Mon, 24 May 2021 14:51:44 +0200</pubDate>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
             <guid isPermaLink="false"/>
             <description></description>
-            <content:encoded/>
+            <content:encoded>
+                <![CDATA[<div><div><p><strong><a>Rockfield</a></strong>&nbsp; Award-winning Restaurant in Anytown</p></div><div></div></div>
+]]>
+            </content:encoded>
             <excerpt:encoded/>
-            <wp:post_id>762</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:44</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:44</wp:post_date_gmt>
+            <wp:post_id></wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[menu]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>nav_menu_item</wp:post_type>
+            <wp:post_name/>
+            <wp:status></wp:status>
+            <wp:post_type>wp_template_part</wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>1</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
-            <category domain="nav_menu" nicename="custom-main-menu-2d2e4b41-c9ed-4cc2-8f3e-95933732daac">
-                <![CDATA[Custom Main Menu]]>
+            <category domain="0" nicename="wp_template_part_area">
+                <![CDATA[wp_template_part_area]]>
             </category>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_type]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[post_type]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_menu_item_parent]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[572]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[page]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_target]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_classes]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_url]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_xfn]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
+            <category domain="0" nicename="header">
+                <![CDATA[header]]>
+            </category>
+            <category domain="0" nicename="header">
+                <![CDATA[header]]>
+            </category>
+            <category domain="0" nicename="2">
+                <![CDATA[2]]>
+            </category>
+            <category domain="1" nicename="wp_theme">
+                <![CDATA[wp_theme]]>
+            </category>
+            <category domain="1" nicename="tt1-blocks">
+                <![CDATA[tt1-blocks]]>
+            </category>
+            <category domain="1" nicename="tt1-blocks">
+                <![CDATA[tt1-blocks]]>
+            </category>
+            <category domain="1" nicename="3">
+                <![CDATA[3]]>
+            </category>
             <wp:postmeta>
                 <wp:meta_key>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
             <title>
-                <![CDATA[Winter Menu]]>
+                <![CDATA[footer]]>
             </title>
             <link/>
-            <pubDate>Mon, 24 May 2021 14:51:44 +0200</pubDate>
+            <pubDate>Invalid date</pubDate>
             <dc:creator>admin</dc:creator>
             <guid isPermaLink="false"/>
             <description></description>
             <content:encoded/>
             <excerpt:encoded/>
-            <wp:post_id>772</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:44</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:44</wp:post_date_gmt>
+            <wp:post_id></wp:post_id>
+            <wp:post_date>Invalid date</wp:post_date>
+            <wp:post_date_gmt>Invalid date</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
             <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[winter-menu]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>nav_menu_item</wp:post_type>
+            <wp:post_name/>
+            <wp:status></wp:status>
+            <wp:post_type>wp_template_part</wp:post_type>
             <wp:post_parent></wp:post_parent>
-            <wp:menu_order>2</wp:menu_order>
+            <wp:menu_order></wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
-            <category domain="nav_menu" nicename="custom-main-menu-2d2e4b41-c9ed-4cc2-8f3e-95933732daac">
-                <![CDATA[Custom Main Menu]]>
+            <category domain="0" nicename="wp_template_part_area">
+                <![CDATA[wp_template_part_area]]>
             </category>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_type]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[post_type]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_menu_item_parent]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[762]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[632]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[page]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_target]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_classes]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_url]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_xfn]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
+            <category domain="0" nicename="footer">
+                <![CDATA[footer]]>
+            </category>
+            <category domain="0" nicename="footer">
+                <![CDATA[footer]]>
+            </category>
+            <category domain="0" nicename="5">
+                <![CDATA[5]]>
+            </category>
+            <category domain="1" nicename="wp_theme">
+                <![CDATA[wp_theme]]>
+            </category>
+            <category domain="1" nicename="wp_theme">
+                <![CDATA[wp_theme]]>
+            </category>
+            <category domain="1" nicename="tt1-blocks">
+                <![CDATA[tt1-blocks]]>
+            </category>
+            <category domain="1" nicename="3">
+                <![CDATA[3]]>
+            </category>
             <wp:postmeta>
                 <wp:meta_key>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[What's On]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:44 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>782</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:44</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:44</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[what's-on]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>nav_menu_item</wp:post_type>
-            <wp:post_parent></wp:post_parent>
-            <wp:menu_order>3</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <category domain="nav_menu" nicename="custom-main-menu-2d2e4b41-c9ed-4cc2-8f3e-95933732daac">
-                <![CDATA[Custom Main Menu]]>
-            </category>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_type]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[post_type]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_menu_item_parent]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[602]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[page]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_target]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_classes]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_url]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_xfn]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[Reservations]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:44 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>792</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:44</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:44</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[reservations]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>nav_menu_item</wp:post_type>
-            <wp:post_parent></wp:post_parent>
-            <wp:menu_order>4</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <category domain="nav_menu" nicename="custom-main-menu-2d2e4b41-c9ed-4cc2-8f3e-95933732daac">
-                <![CDATA[Custom Main Menu]]>
-            </category>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_type]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[post_type]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_menu_item_parent]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[612]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_object]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[page]]>
-                </wp:meta_value>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_target]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_classes]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_url]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[_menu_item_xfn]]>
-                </wp:meta_key>
-                <wp:meta_value/>
-            </wp:postmeta>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -1152,7 +746,7 @@ mail@example.com</span></p>
             <description></description>
             <content:encoded/>
             <excerpt:encoded/>
-            <wp:post_id>802</wp:post_id>
+            <wp:post_id>928</wp:post_id>
             <wp:post_date>2021-03-30 11:06:40</wp:post_date>
             <wp:post_date_gmt>2021-03-30 09:06:40</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
@@ -1162,7 +756,7 @@ mail@example.com</span></p>
             </wp:post_name>
             <wp:status>publish</wp:status>
             <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>712</wp:post_parent>
+            <wp:post_parent>818</wp:post_parent>
             <wp:menu_order>0</wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
@@ -1171,7 +765,7 @@ mail@example.com</span></p>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -1186,7 +780,7 @@ mail@example.com</span></p>
             <description></description>
             <content:encoded/>
             <excerpt:encoded/>
-            <wp:post_id>812</wp:post_id>
+            <wp:post_id>938</wp:post_id>
             <wp:post_date>2021-03-30 11:02:10</wp:post_date>
             <wp:post_date_gmt>2021-03-30 09:02:10</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
@@ -1196,7 +790,7 @@ mail@example.com</span></p>
             </wp:post_name>
             <wp:status>publish</wp:status>
             <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>722</wp:post_parent>
+            <wp:post_parent>828</wp:post_parent>
             <wp:menu_order>0</wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
@@ -1205,7 +799,7 @@ mail@example.com</span></p>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
@@ -1220,7 +814,7 @@ mail@example.com</span></p>
             <description></description>
             <content:encoded/>
             <excerpt:encoded/>
-            <wp:post_id>822</wp:post_id>
+            <wp:post_id>948</wp:post_id>
             <wp:post_date>2021-03-30 10:58:13</wp:post_date>
             <wp:post_date_gmt>2021-03-30 08:58:13</wp:post_date_gmt>
             <wp:comment_status></wp:comment_status>
@@ -1230,7 +824,7 @@ mail@example.com</span></p>
             </wp:post_name>
             <wp:status>publish</wp:status>
             <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>732</wp:post_parent>
+            <wp:post_parent>838</wp:post_parent>
             <wp:menu_order>0</wp:menu_order>
             <wp:post_password></wp:post_password>
             <wp:is_sticky></wp:is_sticky>
@@ -1239,245 +833,7 @@ mail@example.com</span></p>
                     <![CDATA[parsing_session_id]]>
                 </wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[/menu]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>832</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[c204e0291d5e2b51c35a33b9ae702ed8]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>572</wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[/post]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>842</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[099fb08c186045e42d9cfe3179138df0]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>582</wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[/christmaspartyatrockfields]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>852</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[33d80e36aab06c361eb92d6f78c440d0]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>592</wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[/blog]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>862</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[c061e150208a7ab43c1b0b723b79816b]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>602</wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[/reservations]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>872</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[c15c4f2ba77755b83b1ebc0f12d1b2da]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>612</wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[/winter-menu]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>882</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[cd54bc62ab209409fea636028784e38c]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>632</wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
-                </wp:meta_value>
-            </wp:postmeta>
-        </item>
-        <item>
-            <title>
-                <![CDATA[/trickstoplatinglikeapro]]>
-            </title>
-            <link/>
-            <pubDate>Mon, 24 May 2021 14:51:42 +0200</pubDate>
-            <dc:creator>admin</dc:creator>
-            <guid isPermaLink="false"/>
-            <description></description>
-            <content:encoded/>
-            <excerpt:encoded/>
-            <wp:post_id>892</wp:post_id>
-            <wp:post_date>2021-05-24 14:51:42</wp:post_date>
-            <wp:post_date_gmt>2021-05-24 12:51:42</wp:post_date_gmt>
-            <wp:comment_status></wp:comment_status>
-            <wp:ping_status></wp:ping_status>
-            <wp:post_name>
-                <![CDATA[24aa7aa8f7efd1bd049fdf2b6ae8f28a]]>
-            </wp:post_name>
-            <wp:status>publish</wp:status>
-            <wp:post_type>jetpack-redirect</wp:post_type>
-            <wp:post_parent>642</wp:post_parent>
-            <wp:menu_order>0</wp:menu_order>
-            <wp:post_password></wp:post_password>
-            <wp:is_sticky></wp:is_sticky>
-            <wp:postmeta>
-                <wp:meta_key>
-                    <![CDATA[parsing_session_id]]>
-                </wp:meta_key>
-                <wp:meta_value>
-                    <![CDATA[2d2e4b41-c9ed-4cc2-8f3e-95933732daac]]>
+                    <![CDATA[0b0eaa12-67f9-4246-9bf6-b80292759479]]>
                 </wp:meta_value>
             </wp:postmeta>
         </item>
