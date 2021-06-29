@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/">
+	<channel>
+		<title>Home Page | Personal Blog Demo</title>
+		<link>https://bogdannikolic.wixsite.com/personal</link>
+		<description></description>
+		<pubDate>Mon, 28 Jun 2021 19:07:52 +0200</pubDate>
+		<language>en</language>
+		<wp:wxr_version>1.2</wp:wxr_version>
+		<wp:base_site_url>https://bogdannikolic.wixsite.com/personal</wp:base_site_url>
+		<wp:base_blog_url>https://bogdannikolic.wixsite.com/personal</wp:base_blog_url>
+		<generator>https://siteparser.wordpress.com/?engine=wix</generator>
+		<wp:author>
+			<wp:author_id>194</wp:author_id>
+			<wp:author_login>
+				<![CDATA[bogdannikolic]]>
+			</wp:author_login>
+			<wp:author_email/>
+			<wp:author_display_name>
+				<![CDATA[bogdannikolic]]>
+			</wp:author_display_name>
+			<wp:author_first_name/>
+			<wp:author_last_name/>
+		</wp:author>
+		<wp:author>
+			<wp:author_id>404</wp:author_id>
+			<wp:author_login>
+				<![CDATA[admin]]>
+			</wp:author_login>
+			<wp:author_email>
+				<![CDATA[admin@example.com]]>
+			</wp:author_email>
+			<wp:author_display_name>
+				<![CDATA[Site Admin]]>
+			</wp:author_display_name>
+			<wp:author_first_name>
+				<![CDATA[Site]]>
+			</wp:author_first_name>
+			<wp:author_last_name>
+				<![CDATA[Admin]]>
+			</wp:author_last_name>
+		</wp:author>
+		<wp:category>
+			<wp:term_id>394</wp:term_id>
+			<wp:category_nicename>
+				<![CDATA[uncategorized]]>
+			</wp:category_nicename>
+			<wp:category_parent></wp:category_parent>
+			<wp:cat_name>
+				<![CDATA[Uncategorized]]>
+			</wp:cat_name>
+		</wp:category>
+		<wp:tag>
+			<wp:term_id>344</wp:term_id>
+			<wp:tag_slug>bloggingtips</wp:tag_slug>
+			<wp:tag_name>
+				<![CDATA[bloggingtips]]>
+			</wp:tag_name>
+		</wp:tag>
+		<wp:tag>
+			<wp:term_id>354</wp:term_id>
+			<wp:tag_slug>hashtag</wp:tag_slug>
+			<wp:tag_name>
+				<![CDATA[hashtag]]>
+			</wp:tag_name>
+		</wp:tag>
+		<wp:tag>
+			<wp:term_id>364</wp:term_id>
+			<wp:tag_slug>vacation</wp:tag_slug>
+			<wp:tag_name>
+				<![CDATA[vacation]]>
+			</wp:tag_name>
+		</wp:tag>
+		<wp:tag>
+			<wp:term_id>374</wp:term_id>
+			<wp:tag_slug>dream</wp:tag_slug>
+			<wp:tag_name>
+				<![CDATA[dream]]>
+			</wp:tag_name>
+		</wp:tag>
+		<wp:tag>
+			<wp:term_id>384</wp:term_id>
+			<wp:tag_slug>summer</wp:tag_slug>
+			<wp:tag_name>
+				<![CDATA[summer]]>
+			</wp:tag_name>
+		</wp:tag>
+		<wp:term>
+			<wp:term_id>234</wp:term_id>
+			<wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+			<wp:term_slug>
+				<![CDATA[custom-main-menu-23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+			</wp:term_slug>
+			<wp:term_name>
+				<![CDATA[Custom Main Menu]]>
+			</wp:term_name>
+			<wp:termmeta>
+				<wp:meta_key>
+					<![CDATA[menu_role]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[main]]>
+				</wp:meta_value>
+			</wp:termmeta>
+			<wp:termmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:termmeta>
+		</wp:term>
+		<wp:option>
+			<wp:option_key>
+				<![CDATA[show_on_front]]>
+			</wp:option_key>
+			<wp:option_value>
+				<![CDATA[page]]>
+			</wp:option_value>
+		</wp:option>
+		<wp:option>
+			<wp:option_key>
+				<![CDATA[page_on_front]]>
+			</wp:option_key>
+			<wp:option_value>
+				<![CDATA[94]]>
+			</wp:option_value>
+		</wp:option>
+		<item>
+			<title>
+				<![CDATA[Now You Can Blog from Everywhere!]]>
+			</title>
+			<link>
+				<![CDATA[manage-your-blog-from-your-live-site]]>
+			</link>
+			<pubDate>Wed, 09 Jun 2021 13:09:24 +0200</pubDate>
+			<dc:creator>bogdannikolic</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[manage-your-blog-from-your-live-site]]>
+			</guid>
+			<description></description>
+			<content:encoded>
+				<![CDATA[<p>We’ve made it quick and convenient for you to manage your blog from anywhere. In this blog post we’ll share the ways you can post to your Wix Blog.  </p><p></p><img src="https://static.wixstatic.com/media/a27d24_74a5c4593cc1454683305dbaa50c80cb~mv2_d_1880_1560_s_2.png"><p></p><p>Blogging from Your Wix Blog Dashboard</p><p>On the dashboard, you have everything you need to manage your blog in one place. You can create new posts, set categories and more. To head to your Dashboard, open the Wix Editor and click on Blog &gt; Posts. </p><p></p><p>Blogging from Your Published Site</p><p>Did you know that you can blog right from your published website? After you publish your site, go to your website’s URL and login with your Wix account. There you can write and edit posts, manage comments, pin posts and more! Just click on the 3 dot icon ( ⠇) to see all the things you can do. </p><p></p><p>#bloggingtips #WixBlog </p>]]>
+			</content:encoded>
+			<excerpt:encoded/>
+			<wp:post_id>204</wp:post_id>
+			<wp:post_date>2021-06-09 13:09:24</wp:post_date>
+			<wp:post_date_gmt>2021-06-09 11:09:24</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name/>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<category domain="category" nicename="uncategorized">
+				<![CDATA[Uncategorized]]>
+			</category>
+			<category domain="post_tag" nicename="bloggingtips">
+				<![CDATA[bloggingtips]]>
+			</category>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[WIX_ID]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[60c0a1643f3d15001567b20e]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Design a Stunning Blog]]>
+			</title>
+			<link>
+				<![CDATA[design-a-stunning-blog]]>
+			</link>
+			<pubDate>Wed, 09 Jun 2021 13:09:24 +0200</pubDate>
+			<dc:creator>bogdannikolic</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[design-a-stunning-blog]]>
+			</guid>
+			<description></description>
+			<content:encoded>
+				<![CDATA[<p>When it comes to design, the Wix blog has everything you need to create beautiful posts that will grab your reader's attention. Check out our essential design features. </p><p></p><img src="https://static.wixstatic.com/media/a27d24_f116a7916f5544a79f92d43b4247a457~mv2_d_2845_1900_s_2.jpg"><p></p><h3>Choose from 8 stunning layouts</h3><p>Your Wix Blog comes with 8 beautiful layouts. From your blog's settings, choose the layout that’s right for you. For example, a <b>tiled layout </b>is popular for helping visitors discover more posts that interest them. Or, choose a <b>classic single column layout </b>that lets readers scroll down and see your post topics one by one.</p><p>Every layout comes with the latest social features built in. Readers can easily share posts on social networks like Facebook and Twitter and view how many people have liked a post, made comments and more.</p><p></p><h3>Add media to your posts</h3><p>When creating your posts you can: </p><ul><li>Upload images or GIFs</li><li>Embed videos and music </li><li>Create galleries to showcase a media collection</li></ul><p>Customize the look of your media by making it widescreen or small and easily align media inside your posts.  </p><p></p><p></p><h3>Hashtag your posts</h3><p>Love to <u>#hashtag</u>? Good news!</p><p>You can add tags (<u>#vacation</u><u>#dream</u><u>#summer</u>) throughout your posts to reach more people. Why hashtag? People can use your hashtags to search through content on your blog and find the content that matters to them. So go ahead and <u>#hashtag</u> away!</p><p></p>]]>
+			</content:encoded>
+			<excerpt:encoded/>
+			<wp:post_id>214</wp:post_id>
+			<wp:post_date>2021-06-09 13:09:24</wp:post_date>
+			<wp:post_date_gmt>2021-06-09 11:09:24</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name/>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<category domain="category" nicename="uncategorized">
+				<![CDATA[Uncategorized]]>
+			</category>
+			<category domain="post_tag" nicename="hashtag">
+				<![CDATA[hashtag]]>
+			</category>
+			<category domain="post_tag" nicename="vacation">
+				<![CDATA[vacation]]>
+			</category>
+			<category domain="post_tag" nicename="dream">
+				<![CDATA[dream]]>
+			</category>
+			<category domain="post_tag" nicename="summer">
+				<![CDATA[summer]]>
+			</category>
+			<category domain="post_tag" nicename="hashtag">
+				<![CDATA[hashtag]]>
+			</category>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[WIX_ID]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[60c0a1643f3d15001567b20d]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Grow Your Blog Community]]>
+			</title>
+			<link>
+				<![CDATA[grow-your-blog-community]]>
+			</link>
+			<pubDate>Wed, 09 Jun 2021 13:09:24 +0200</pubDate>
+			<dc:creator>bogdannikolic</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[grow-your-blog-community]]>
+			</guid>
+			<description></description>
+			<content:encoded>
+				<![CDATA[<p>With Wix Blog, you’re not only sharing your voice with the world, you can also grow an active online community. That’s why the Wix blog comes with a built-in members area - so that readers can easily sign easily up to become members of your blog.</p><p></p><img src="https://static.wixstatic.com/media/a27d24_e1ac8887d0e04dd5b98fb4c263af1180~mv2_d_4915_3277_s_4_2.jpg"><p></p><p><b>What can members do? </b></p><p>Members can follow each other, write and reply to comments and receive blog notifications.  Each member gets their own personal profile page that they can customize. </p><p></p><img src="https://static.wixstatic.com/media/a27d24_37dd352948ab4551ad5316b1287d59bb~mv2_d_4329_3000_s_4_2.jpg"><h3>Tip: </h3><p>You can make any member of your blog a writer so they can write posts for your blog. Adding multiple writers is a great way to grow your content and keep it fresh and diversified. </p><p></p><h3></h3><p></p><p><b>Here’s how to do it:</b></p><ol><li>Head to your Member’s Page</li><li>Search for the member you want to make a writer</li><li>Click on the member’s profile</li><li>Click the 3 dot icon ( ⠇) on the <b>Follow</b> button</li><li>Select Set as Writer</li></ol>]]>
+			</content:encoded>
+			<excerpt:encoded/>
+			<wp:post_id>224</wp:post_id>
+			<wp:post_date>2021-06-09 13:09:24</wp:post_date>
+			<wp:post_date_gmt>2021-06-09 11:09:24</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name/>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<category domain="category" nicename="uncategorized">
+				<![CDATA[Uncategorized]]>
+			</category>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[WIX_ID]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[60c0a1643f3d15001567b20c]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Home Page]]>
+			</title>
+			<link>
+				<![CDATA[https://bogdannikolic.wixsite.com/personal]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://bogdannikolic.wixsite.com/personal]]>
+			</guid>
+			<description></description>
+			<content:encoded>
+				<![CDATA[<a id="adi_page1003_1_118"></a><h2 style="font-size: 23px;">SocialBar, WTwitterFollow, WRichText, FiveGridLine</h2><hr size="5" width="940"><div><span><a rel="noopener" target="_blank" href="https://www.facebook.com/wix"><img height="20" width="20" title="Facebook" alt="Facebook" src="https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png"></a></span><span><a rel="noopener" target="_blank" href="https://twitter.com/Wix"><img height="20" width="20" title="Twitter" alt="Twitter" src="https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png"></a></span><span><a rel="noopener" target="_blank" href="https://www.linkedin.com/company/wix-com"><img height="20" width="20" title="LinkedIn" alt="LinkedIn" src="https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"></a></span></div><a href="undefined/archives/bd2b6d_e8685d6793704fb8a7874c595788475f.zip"><img height="140" width="298" title="Screenshot 2021-06-08 at 10.15.34.zip" src="https://static.wixstatic.com/media/530aa01d8faf4d58a3e08e8a24c32836.png"><br>Screenshot 2021-06-08 at 10.15.34.zip</a>
+
+
+[twitter-follow screen_name='wix' show_count='yes' show_screen_name='yes']
+
+
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <span style="text-decoration: underline;"><em>the industry's standard</em></span> dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the <span style="text-decoration: underline;"><a>1960s</a></span> with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><a id="comp-kq9zh9f9"></a>]]>
+			</content:encoded>
+			<excerpt:encoded/>
+			<wp:post_id>94</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name/>
+			<wp:status>publish</wp:status>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Gallery Page]]>
+			</title>
+			<link>
+				<![CDATA[https://bogdannikolic.wixsite.com/personal/gallery-page]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://bogdannikolic.wixsite.com/personal/gallery-page]]>
+			</guid>
+			<description></description>
+			<content:encoded>
+				<![CDATA[
+
+[gallery ids="104,114,124,134" type="slideshow" autostart="false"]
+
+]]>
+			</content:encoded>
+			<excerpt:encoded/>
+			<wp:post_id>64</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name/>
+			<wp:status>publish</wp:status>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Media Page]]>
+			</title>
+			<link>
+				<![CDATA[https://bogdannikolic.wixsite.com/personal/media-page]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://bogdannikolic.wixsite.com/personal/media-page]]>
+			</guid>
+			<description></description>
+			<content:encoded>
+				<![CDATA[<h2>Video, Audio, Spotify, Sound Cloud</h2>
+
+]]>
+			</content:encoded>
+			<excerpt:encoded/>
+			<wp:post_id>74</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name/>
+			<wp:status>publish</wp:status>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Additional components]]>
+			</title>
+			<link>
+				<![CDATA[https://bogdannikolic.wixsite.com/personal/additional-components]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://bogdannikolic.wixsite.com/personal/additional-components]]>
+			</guid>
+			<description></description>
+			<content:encoded>
+				<![CDATA[<img height="629" width="908" alt="Screenshot 2021-06-20 at 17.14.01.png" src="https://static.wixstatic.com/media/bd2b6d_cbaa225c65634732a18e9fa6e6c383ef~mv2.png"><div class="componentContainer"><p>This is a custom HTML block placed inside of the Mobile container component.</p><a href="https://lorem-ipsum.com/">Lorem ipsum link</a></div>
+
+
+[googlemaps https://maps.google.com/maps?t=&amp;ie=UTF8&amp;iwloc=&amp;output=embed&amp;q=Wix%20Office&amp;w=1772&amp;h=333]
+
+]]>
+			</content:encoded>
+			<excerpt:encoded/>
+			<wp:post_id>84</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name/>
+			<wp:status>publish</wp:status>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[530aa01d8faf4d58a3e08e8a24c32836.png]]>
+			</title>
+			<link>
+				<![CDATA[https://static.wixstatic.com/media/530aa01d8faf4d58a3e08e8a24c32836.png]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://static.wixstatic.com/media/530aa01d8faf4d58a3e08e8a24c32836.png]]>
+			</guid>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>144</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[530aa01d8faf4d58a3e08e8a24c32836.png]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>attachment</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:attachment_url>
+				<![CDATA[https://static.wixstatic.com/media/530aa01d8faf4d58a3e08e8a24c32836.png]]>
+			</wp:attachment_url>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_wp_attachment_attachment_alt]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Screenshot 2021-06-08 at 10.15.34.zip]]>
+			</title>
+			<link>
+				<![CDATA[undefined/archives/bd2b6d_e8685d6793704fb8a7874c595788475f.zip]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[undefined/archives/bd2b6d_e8685d6793704fb8a7874c595788475f.zip]]>
+			</guid>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>154</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[bd2b6d_e8685d6793704fb8a7874c595788475f.zip]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>attachment</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:attachment_url>
+				<![CDATA[undefined/archives/bd2b6d_e8685d6793704fb8a7874c595788475f.zip]]>
+			</wp:attachment_url>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_wp_attachment_attachment_alt]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[Screenshot 2021-06-08 at 10.15.34.zip]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[b25591_99f5cd6c9b6b4899aef6c2e486e291c7~mv2_d_3000_2930_s_4_2.jpg]]>
+			</title>
+			<link>
+				<![CDATA[https://static.wixstatic.com/media/b25591_99f5cd6c9b6b4899aef6c2e486e291c7~mv2_d_3000_2930_s_4_2.jpg]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://static.wixstatic.com/media/b25591_99f5cd6c9b6b4899aef6c2e486e291c7~mv2_d_3000_2930_s_4_2.jpg]]>
+			</guid>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>104</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[b25591_99f5cd6c9b6b4899aef6c2e486e291c7~mv2_d_3000_2930_s_4_2.jpg]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>attachment</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:attachment_url>
+				<![CDATA[https://static.wixstatic.com/media/b25591_99f5cd6c9b6b4899aef6c2e486e291c7~mv2_d_3000_2930_s_4_2.jpg]]>
+			</wp:attachment_url>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_wp_attachment_attachment_alt]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[b25591_2790fd3a23db403793dbf2c3c1c62723~mv2_d_3000_1946_s_2.jpg]]>
+			</title>
+			<link>
+				<![CDATA[https://static.wixstatic.com/media/b25591_2790fd3a23db403793dbf2c3c1c62723~mv2_d_3000_1946_s_2.jpg]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://static.wixstatic.com/media/b25591_2790fd3a23db403793dbf2c3c1c62723~mv2_d_3000_1946_s_2.jpg]]>
+			</guid>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>114</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[b25591_2790fd3a23db403793dbf2c3c1c62723~mv2_d_3000_1946_s_2.jpg]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>attachment</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:attachment_url>
+				<![CDATA[https://static.wixstatic.com/media/b25591_2790fd3a23db403793dbf2c3c1c62723~mv2_d_3000_1946_s_2.jpg]]>
+			</wp:attachment_url>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_wp_attachment_attachment_alt]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[b25591_24a35ec53c4a4d41a0da9c7b7cd6d2d3~mv2_d_3000_1965_s_2.jpg]]>
+			</title>
+			<link>
+				<![CDATA[https://static.wixstatic.com/media/b25591_24a35ec53c4a4d41a0da9c7b7cd6d2d3~mv2_d_3000_1965_s_2.jpg]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://static.wixstatic.com/media/b25591_24a35ec53c4a4d41a0da9c7b7cd6d2d3~mv2_d_3000_1965_s_2.jpg]]>
+			</guid>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>124</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[b25591_24a35ec53c4a4d41a0da9c7b7cd6d2d3~mv2_d_3000_1965_s_2.jpg]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>attachment</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:attachment_url>
+				<![CDATA[https://static.wixstatic.com/media/b25591_24a35ec53c4a4d41a0da9c7b7cd6d2d3~mv2_d_3000_1965_s_2.jpg]]>
+			</wp:attachment_url>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_wp_attachment_attachment_alt]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[b25591_bc3841f1dee44abf840a9a1b33591002~mv2_d_3000_1995_s_2.jpg]]>
+			</title>
+			<link>
+				<![CDATA[https://static.wixstatic.com/media/b25591_bc3841f1dee44abf840a9a1b33591002~mv2_d_3000_1995_s_2.jpg]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://static.wixstatic.com/media/b25591_bc3841f1dee44abf840a9a1b33591002~mv2_d_3000_1995_s_2.jpg]]>
+			</guid>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>134</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[b25591_bc3841f1dee44abf840a9a1b33591002~mv2_d_3000_1995_s_2.jpg]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>attachment</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:attachment_url>
+				<![CDATA[https://static.wixstatic.com/media/b25591_bc3841f1dee44abf840a9a1b33591002~mv2_d_3000_1995_s_2.jpg]]>
+			</wp:attachment_url>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_wp_attachment_attachment_alt]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Screenshot 2021-06-20 at 17.14.01.png]]>
+			</title>
+			<link>
+				<![CDATA[https://static.wixstatic.com/media/bd2b6d_cbaa225c65634732a18e9fa6e6c383ef~mv2.png]]>
+			</link>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false">
+				<![CDATA[https://static.wixstatic.com/media/bd2b6d_cbaa225c65634732a18e9fa6e6c383ef~mv2.png]]>
+			</guid>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>164</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[bd2b6d_cbaa225c65634732a18e9fa6e6c383ef~mv2.png]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>attachment</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:attachment_url>
+				<![CDATA[https://static.wixstatic.com/media/bd2b6d_cbaa225c65634732a18e9fa6e6c383ef~mv2.png]]>
+			</wp:attachment_url>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_wp_attachment_attachment_alt]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[Screenshot 2021-06-20 at 17.14.01.png]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Home Page]]>
+			</title>
+			<link/>
+			<pubDate>Mon, 28 Jun 2021 19:07:52 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>244</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:52</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:52</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[home-page]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>nav_menu_item</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<category domain="nav_menu" nicename="custom-main-menu-23369ac1-13bc-4b01-8db9-ce4d048d020f">
+				<![CDATA[Custom Main Menu]]>
+			</category>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_type]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[post_type]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_menu_item_parent]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[94]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[page]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_target]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_classes]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_url]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_xfn]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Media Page]]>
+			</title>
+			<link/>
+			<pubDate>Mon, 28 Jun 2021 19:07:52 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>254</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:52</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:52</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[media-page]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>nav_menu_item</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>1</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<category domain="nav_menu" nicename="custom-main-menu-23369ac1-13bc-4b01-8db9-ce4d048d020f">
+				<![CDATA[Custom Main Menu]]>
+			</category>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_type]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[post_type]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_menu_item_parent]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[74]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[page]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_target]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_classes]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_url]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_xfn]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Gallery Page]]>
+			</title>
+			<link/>
+			<pubDate>Mon, 28 Jun 2021 19:07:52 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>264</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:52</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:52</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[gallery-page]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>nav_menu_item</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>2</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<category domain="nav_menu" nicename="custom-main-menu-23369ac1-13bc-4b01-8db9-ce4d048d020f">
+				<![CDATA[Custom Main Menu]]>
+			</category>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_type]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[post_type]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_menu_item_parent]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[64]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[page]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_target]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_classes]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_url]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_xfn]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Additional components]]>
+			</title>
+			<link/>
+			<pubDate>Mon, 28 Jun 2021 19:07:52 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>274</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:52</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:52</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[additional-components]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>nav_menu_item</wp:post_type>
+			<wp:post_parent></wp:post_parent>
+			<wp:menu_order>3</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<category domain="nav_menu" nicename="custom-main-menu-23369ac1-13bc-4b01-8db9-ce4d048d020f">
+				<![CDATA[Custom Main Menu]]>
+			</category>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_type]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[post_type]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_menu_item_parent]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[84]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_object]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[page]]>
+				</wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_target]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_classes]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_url]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[_menu_item_xfn]]>
+				</wp:meta_key>
+				<wp:meta_value/>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[manage-your-blog-from-your-live-site]]>
+			</title>
+			<link/>
+			<pubDate>Wed, 09 Jun 2021 13:09:24 +0200</pubDate>
+			<dc:creator>bogdannikolic</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>284</wp:post_id>
+			<wp:post_date>2021-06-09 13:09:24</wp:post_date>
+			<wp:post_date_gmt>2021-06-09 11:09:24</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[6f3e4a0f05cbdf3158155c68b8c92795]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>jetpack-redirect</wp:post_type>
+			<wp:post_parent>204</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[design-a-stunning-blog]]>
+			</title>
+			<link/>
+			<pubDate>Wed, 09 Jun 2021 13:09:24 +0200</pubDate>
+			<dc:creator>bogdannikolic</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>294</wp:post_id>
+			<wp:post_date>2021-06-09 13:09:24</wp:post_date>
+			<wp:post_date_gmt>2021-06-09 11:09:24</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[facf3d948625d04a6938b1e25cb5904b]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>jetpack-redirect</wp:post_type>
+			<wp:post_parent>214</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[grow-your-blog-community]]>
+			</title>
+			<link/>
+			<pubDate>Wed, 09 Jun 2021 13:09:24 +0200</pubDate>
+			<dc:creator>bogdannikolic</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>304</wp:post_id>
+			<wp:post_date>2021-06-09 13:09:24</wp:post_date>
+			<wp:post_date_gmt>2021-06-09 11:09:24</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[59e4346bc1c10dec0baa72a62bfbed24]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>jetpack-redirect</wp:post_type>
+			<wp:post_parent>224</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[/gallery-page]]>
+			</title>
+			<link/>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>314</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[7ecf91fec96adf13b0049a1917dcaaf9]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>jetpack-redirect</wp:post_type>
+			<wp:post_parent>64</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[/media-page]]>
+			</title>
+			<link/>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>324</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[719681ecb7b91bbdf42eb45f057f1174]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>jetpack-redirect</wp:post_type>
+			<wp:post_parent>74</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>
+				<![CDATA[/additional-components]]>
+			</title>
+			<link/>
+			<pubDate>Mon, 28 Jun 2021 19:07:51 +0200</pubDate>
+			<dc:creator>admin</dc:creator>
+			<guid isPermaLink="false"/>
+			<description></description>
+			<content:encoded/>
+			<excerpt:encoded/>
+			<wp:post_id>334</wp:post_id>
+			<wp:post_date>2021-06-28 19:07:51</wp:post_date>
+			<wp:post_date_gmt>2021-06-28 17:07:51</wp:post_date_gmt>
+			<wp:comment_status></wp:comment_status>
+			<wp:ping_status></wp:ping_status>
+			<wp:post_name>
+				<![CDATA[2b53e3bb3ada9f9235b0b03bd0872351]]>
+			</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_type>jetpack-redirect</wp:post_type>
+			<wp:post_parent>84</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky></wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key>
+					<![CDATA[parsing_session_id]]>
+				</wp:meta_key>
+				<wp:meta_value>
+					<![CDATA[23369ac1-13bc-4b01-8db9-ce4d048d020f]]>
+				</wp:meta_value>
+			</wp:postmeta>
+		</item>
+	</channel>
+</rss>
